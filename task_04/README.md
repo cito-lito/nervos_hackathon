@@ -22,6 +22,6 @@ https://explorer.nervos.org/aggron/transaction/0x49bb965efee7e877211627b29c32741
 
 5. The SUDT ID from the console output after executing the deposit script (in text format).
 
-`sudt id: 829`
+829
 
 
