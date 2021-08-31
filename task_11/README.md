@@ -8,7 +8,7 @@ Task Submission
 
 2. A link to the Layer 1 address you funded on the Testnet Explorer.
 
-	[](https://explorer.nervos.org/aggron/address/ckt1qyqx937qwlhyuz6jycmh5252nw4xrt663q8qdh8vhu)
+	[https://explorer.nervos.org/aggron/address/ckt1qyqx937qwlhyuz6jycmh5252nw4xrt663q8qdh8vhu](https://explorer.nervos.org/aggron/address/ckt1qyqx937qwlhyuz6jycmh5252nw4xrt663q8qdh8vhu)
 
 3. A screenshot of the console output immediately after you have successfully submitted a CKByte deposit to your Tron account on Layer 2.
 
